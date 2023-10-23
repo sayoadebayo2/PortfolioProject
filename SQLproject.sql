@@ -1,4 +1,4 @@
----Exploratory Data Analysis (EDA)--
+---College Wage Exploratory Data Analysis (EDA)--
 
 SELECT * FROM college_wage;
 ----Count the number of records in the dataset,
