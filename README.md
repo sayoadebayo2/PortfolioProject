@@ -18,7 +18,7 @@ The project's goal is to analyze and derive insights from this dataset, explorin
 - [Authors](#authors)
 
 ## Set Up
-To get started with this project, follow these steps:
+To get started with this project, I followed these steps:
 
 1. Clone the repository to your local machine.
 2. Set up a SQL database (e.g., MySQL or PostgreSQL).
